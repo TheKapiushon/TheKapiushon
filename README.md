@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @TheKapiushon
-- 💻 a front-end developer
+- 👋 Hi, I’m @TheKapiushon <br/>
+- 💻 a front-end developer <br/>
 - 🎈 I’m currently learning Javascript
 
 <!---
